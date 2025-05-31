@@ -50,6 +50,9 @@ scikit-learn
 
 nltk
 
+##  Dataset
+ Download from:-https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
+
 ▶️ How to Run
 Open the Jupyter Notebook file (movie_recommender.ipynb)
 
